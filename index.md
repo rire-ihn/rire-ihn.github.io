@@ -3,5 +3,5 @@
 ## Contents
 
 - [About me](about.md)
-- [つくったもの](woks.md)
+- [つくったもの](works.md)
 - 記事
