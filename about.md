@@ -1,15 +1,11 @@
-[TOP](index.md) - [About me](about.md)
+[TOP](/index.md) - [About me](/about.md)
 
 # About me
 
-<table>
-  <tr>
-    <td>所属</td> <td>東京大学 工学部 電気電子工学科</td>
-  </tr>
-  <tr>
-    <td> コールサイン </td> <td>JK1IHN</td>
-  </tr>
-</table>
+<dl>
+  <dt>所属</dt><dd>東京大学工学部 電気電子工学科3年</dd>
+  <dt>コールサイン</dt><dd>JK1IHN</dd>
+</dl>
 
 ## 資格
 
