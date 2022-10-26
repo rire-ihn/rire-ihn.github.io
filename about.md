@@ -1,4 +1,4 @@
-[TOP](/index.md) - [About me](/about.md)
+[TOP](/index) - [About me](/about)
 
 # About me
 

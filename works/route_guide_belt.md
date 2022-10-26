@@ -1,4 +1,4 @@
-[TOP](/index.html) - [つくったもの](/works.html) - [ベルト型経路案内デバイス](/works/route_guide_belt.html)
+[TOP](/index) - [つくったもの](/works) - [ベルト型経路案内デバイス](/works/route_guide_belt)
 
 # ベルト型経路案内デバイス
 

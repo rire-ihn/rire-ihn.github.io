@@ -1,8 +1,8 @@
-[TOP](/index.html) - [つくったもの](/works.html)
+[TOP](/index) - [つくったもの](/works)
 
 # つくったもの
 
-## [ベルト型経路案内デバイス](/works/route_guide_belt.html)
+## [ベルト型経路案内デバイス](/works/route_guide_belt)
 
 - Maker Faire Tokyo 2022 展示
 - CEATEC2022 展示
