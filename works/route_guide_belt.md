@@ -2,11 +2,17 @@
 
 # ベルト型経路案内デバイス
 
-友人2人と製作しました。
+<a href="/works/route_guide_belt"><img width="250" src="/assets/works/route_guide_belt/thumbnail.jpg" alt="thumbnail" title="thumbnail"/></a>
 
-[Mouser Fab DIY Awards 2022](https://fablab-kannai.org/mouser_fab_diy_awards_2022/)というコンテストに応募し、優勝しました。
+- 友人2人と製作しました。
 
-[紹介動画(チームメンバーのTwitter)](https://twitter.com/iris9232/status/1565712210873434112?s=20&t=CuEn4-7Ol17v4Inb1kMvrQ)
+- [Mouser Fab DIY Awards 2022](https://fablab-kannai.org/mouser_fab_diy_awards_2022/)というコンテストに応募し、優勝しました。
+
+- [紹介動画(チームメンバーのTwitter)](https://twitter.com/iris9232/status/1565712210873434112?s=20&t=CuEn4-7Ol17v4Inb1kMvrQ)
+
+- 以下のイベントで展示しました。
+    - Maker Faire Tokyo 2022 (@マウザー, ファブラボ関内ブース)
+    - CEATEC 2022 (@マウザーブース)
 
 ## 作品説明
 
