@@ -1,4 +1,4 @@
-[TOP](/index) - [投稿](/posts) - [fpga環境構築](/posts/vivado_env)
+[TOP](/) - [投稿](/posts) - [fpga環境構築](/posts/vivado_env)
 
 # FPGAの環境構築（Arty S7 + Xilinx Vivado）
 
@@ -16,7 +16,7 @@
 
 - Generate BitstreamしてPrograma deviceすれば書き込めます。
 
-ところで、Vivadoをインストールした時の初期設定では、エディタ起動時にフリーズするバグが発生しました。Xilinxのサポートのページに同じ症状で悩んでいる人がいて、その解答の通りにやったら解決しました。
+ところで、Vivadoをインストールした時の初期設定では、エディタ起動時にフリーズするバグが発生しました。Xilinxのサポートのページに同じ症状で悩んでいる人がいて、その回答の通りにやったら解決しました。
 
 - [Xilinxのサポートのページ](https://support.xilinx.com/s/question/0D52E00006hpSMzSAM/vivado-freeze?language=ja)
 

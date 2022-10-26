@@ -1,4 +1,4 @@
-[TOP](/index) - [About me](/about)
+[TOP](/) - [About me](/about)
 
 # About me
 
