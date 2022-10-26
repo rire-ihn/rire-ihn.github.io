@@ -2,8 +2,8 @@
 
 # つくったもの
 
-## ベルト型経路案内デバイス
+## [ベルト型経路案内デバイス](/works/route_guide_belt.html)
 
-[コンテストページ](https://fablab-kannai.org/mouser_fab_diy_awards_2022/)
-
-[詳細](/works/route_guide_belt.html)
+- Maker Faire Tokyo 2022 展示
+- CEATEC2022 展示
+- [Mouser Fab DIY Awards 2022](https://fablab-kannai.org/mouser_fab_diy_awards_2022/) 優勝
