@@ -2,6 +2,6 @@
 
 ## Contents
 
-- [About me](/about.md)
-- [つくったもの](/works.md)
-- [投稿](/posts.md)
+- [About me](/about.html)
+- [つくったもの](/works.html)
+- [投稿](/posts.html)

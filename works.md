@@ -1,4 +1,4 @@
-[TOP](/index.md) - [つくったもの](/works.md)
+[TOP](/index.html) - [つくったもの](/works.html)
 
 # つくったもの
 
@@ -6,4 +6,4 @@
 
 [コンテストページ](https://fablab-kannai.org/mouser_fab_diy_awards_2022/)
 
-[詳細](/works/route_guide_belt.md)
+[詳細](/works/route_guide_belt.html)

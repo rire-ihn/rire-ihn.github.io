@@ -1,4 +1,4 @@
-[TOP](/index.md) - [投稿](/posts.md)
+[TOP](/index.html) - [投稿](/posts.html)
 
 # 投稿
 
