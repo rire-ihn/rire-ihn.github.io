@@ -2,4 +2,4 @@
 
 # 投稿
 
-- [FPGAの環境構築（Arty S7 + Xilinx Vivado）](/posts/vivado_env)
+- [2022.11.06 FPGAの環境構築（Arty S7 + Xilinx Vivado）](/posts/vivado_env)
