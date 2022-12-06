@@ -5,7 +5,7 @@
 2022.12.06
 
 <div style="padding: 10px; margin-bottom: 10px; border: 1px dashed #333333;">
-この記事は、<a href="https://adventar.org/calendars/7892">eeic Advent Calendar 2022</a>、6日目の記事です。</a>
+この記事は、<a href="https://adventar.org/calendars/7892">eeic Advent Calendar 2022</a>、6日目の記事です。
 </div>
 
 ## はじめに
