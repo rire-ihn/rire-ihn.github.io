@@ -2,7 +2,7 @@
 
 # ベルト型経路案内デバイス
 
-<a href="/works/route_guide_belt"><img width="250" src="/assets/works/route_guide_belt/thumbnail.jpg" alt="thumbnail" title="thumbnail"/></a>
+<img width="250" src="/assets/works/route_guide_belt/thumbnail.jpg" alt="thumbnail" title="thumbnail"/>
 
 - 友人2人と製作しました。
 
