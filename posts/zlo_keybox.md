@@ -61,9 +61,11 @@ ver1もなかなか好評だったんですが、ボタンを押す手間がで�
 
 ## ハードの仕様を決めたので早速製作！
 
-まずはキースタンドの3DCADデータを作り、3Dプリントで成形します。
+まずはキースタンドの3DCADデータを作り、3Dプリントで成形します。左面にはこの後つくる基板を取付、右面は何かの板で覆う予定です。
 
-<img width="200" src="/assets/posts/zlo_keybox/fusion_3ddata.png" alt="cad" title="cad"/>
+<img width="200" src="/assets/posts/zlo_keybox/cad_front.png" alt="cad" title="cad"/>
+
+<img width="200" src="/assets/posts/zlo_keybox/cad_right.png" alt="cad" title="cad"/>
 
 そしてユニバーサル基板に配線をして、
 
