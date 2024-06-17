@@ -9,7 +9,7 @@
 <a href="https://rire-ihn.hatenablog.com/"><img width="50" src="/assets/icons/hatena.svg" alt="hatena@rire-ihn" title="hatena@rire-ihn"/></a>
 
 <dl>
-  <dt>所属</dt><dd>東京大学工学部 電気電子工学科4年</dd>
+  <dt>所属</dt><dd>東京大学工学系研究科 電気系工学専攻 修士1年</dd>
   <dt>コールサイン</dt><dd>JK1IHN</dd>
 </dl>
 
